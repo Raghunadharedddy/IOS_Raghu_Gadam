@@ -1,10 +1,5 @@
-//
-//  AppDelegate.swift
-//  TableExample
-//
-//  Created by Ralf Ebert on 27.11.17.
-//  Copyright © 2017 Example. All rights reserved.
-//
+
+
 
 import UIKit
 
